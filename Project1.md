@@ -1,11 +1,5 @@
 # codealpha_tasks
 
-# 🛡️ Network Sniffer & Phishing Awareness Training
-
-This repository contains a **Network Sniffer** built in Python that captures and analyzes network traffic, along with a **Phishing Awareness Training** presentation to educate users on recognizing phishing attacks.
-
----
-
 ## 📌 Project 1: Network Sniffer  
 ### **🔍 About**  
 The **Network Sniffer** captures network packets and analyzes their headers to extract useful information like source & destination IP addresses, and protocols.
