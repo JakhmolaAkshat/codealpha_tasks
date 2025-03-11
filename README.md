@@ -27,12 +27,12 @@ The **Network Sniffer** captures network packets and analyzes their headers to e
 git clone https://github.com/yourusername/network-sniffer.git
 cd network-sniffer
 
-# Run the script (requires admin/root privileges)
+### Run the script (requires admin/root privileges)
 python sniffer.py
 
 
 
-# 🎣 **Project 2: Phishing Awareness Training**
+**🎣 Project 2: Phishing Awareness Training**
 
 ## 📖 About  
 This **Phishing Awareness Training** is designed to educate users on recognizing and avoiding phishing attacks, including emails, fake websites, and social engineering tactics.
