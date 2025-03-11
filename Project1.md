@@ -18,8 +18,6 @@ The **Network Sniffer** captures network packets and analyzes their headers to e
 ### **🚀 Usage**
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/network-sniffer.git
-cd network-sniffer
 
 ### Run the script (requires admin/root privileges)
 python sniffer.py
